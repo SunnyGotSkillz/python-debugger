@@ -1,7 +1,8 @@
+# pythonDebugger.py
+# Sunny Vinay
+
 import sys
 import inspect
-
-global oldVarDict
 
 def sample(a, b):
     z = 2
